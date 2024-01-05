@@ -1,0 +1,1 @@
+CADUSD=X.csv => https://ca.finance.yahoo.com/quote/CADUSD%3DX/history?period1=1063670400&period2=1704412800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
